@@ -1,0 +1,6 @@
+onver images:
+
+https://www.kaggle.com/espsiyam/siim-covid-19-convert-to-jpg-256px/edit
+
+Detectron 2:
+https://www.kaggle.com/ammarnassanalhajali/siim-covid-19-detectron2-training/#SIIM-COVID-19-Detectron2-Training
