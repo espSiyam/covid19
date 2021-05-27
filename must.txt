@@ -1,3 +1,5 @@
 https://www.kaggle.com/h053473666/siim-cov19-efnb7-infer-study
 
 https://www.kaggle.com/h053473666/siim-covid19-efnb7-train-study
+
+https://www.kaggle.com/ayuraj/train-covid-19-detection-using-yolov5
